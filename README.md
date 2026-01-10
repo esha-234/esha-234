@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📊 Market Intelligence Associate | Data Storyteller | Researcher
+
+I am a research professional who believes that data is a powerful communication tool and that creativity is the key to innovation. I specialize in the full research lifecycle—from designing primary research instruments to crafting the final visual narrative.
+
+🔍 What I do: Transform complex datasets into actionable insights through rigorous analysis and intuitive design.
+
+🎨 My Philosophy: Data shouldn't just be seen; it should be understood. I bridge the gap between statistical rigor and creative storytelling.
+
+🚀 Currently: Specializing in report making and active in the Tableau community, constantly refining my dashboard design skills.
