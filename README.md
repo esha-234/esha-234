@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 📊 Market Intelligence Associate | Data Storyteller | Researcher
 
-I am a research professional who believes that data is a powerful communication tool and that creativity is the key to innovation. I specialize in the full research lifecycle—from designing primary research instruments to crafting the final visual narrative.
+Market Intelligence Associate at Monotype, where I analyse digital footprints and build compliance reports for enterprise clients. Outside of work, I research what I'm curious about — consumer behaviour, psychographic segmentation, and market dynamics.
 
-🔍 What I do: Transform complex datasets into actionable insights through rigorous analysis and intuitive design.
+🔍 I specialise in the full research lifecycle: designing primary instruments, running statistical analysis, and translating findings into visual narratives that anyone can act on. My philosophy is simple — data shouldn't just be seen; it should be understood.
 
-🎨 My Philosophy: Data shouldn't just be seen; it should be understood. I bridge the gap between statistical rigor and creative storytelling.
-
-🚀 Currently: Specializing in report making and active in the Tableau community, constantly refining my dashboard design skills.
+🎨 Previously active in the Tableau community through weekly viz challenges (#B2VB) and local data events in Delhi.
