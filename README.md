@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 Market Intelligence Associate at Monotype, where I analyse digital footprints and build compliance reports for enterprise clients. Outside of work, I research what I'm curious about — consumer behaviour, psychographic segmentation, and market dynamics.
 
-🔍 I specialise in the full research lifecycle: designing primary instruments, running statistical analysis, and translating findings into visual narratives that anyone can act on. My philosophy is simple — data shouldn't just be seen; it should be understood.
+I specialise in the full research lifecycle: designing primary instruments, running statistical analysis, and translating findings into visual narratives that anyone can act on. My philosophy is simple — data shouldn't just be seen; it should be understood.
 
-🎨 Previously active in the Tableau community through weekly viz challenges (#B2VB) and local data events in Delhi.
+Previously active in the Tableau community through weekly viz challenges (#B2VB) and local data events in Delhi.
